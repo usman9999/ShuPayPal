@@ -1,0 +1,32 @@
+As a Web Developer I want to create this project using the following layout.
+
+Acceptance Criteria:-
+
+Login Page:-
+
+Should have fields like 
+
+Username : admin
+Password : admin
+
+
+
+The Payment system should be suitable for 
+
+Schools / Colleges
+Banks
+Private LLC's
+Corporate Sector
+and
+Public Sector
+
+It should have main features like:-
+
+Add Person Details / Record Submissions
+Manage Person Record
+Create new Profiles
+Manage Profiles
+Take Payment
+Manage Payment Types
+Payment Details
+Generate Reports
