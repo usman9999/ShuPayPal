@@ -1,0 +1,14 @@
+user story: User Login Page
+As a user of ShuPayPal i want to be able to login to my account ans also be able to check my balance.
+
+Task: 
+  > Create User Interface
+  > Implementation of Sevice Layer
+  > Create Continuous Delivery Pipeline
+  > Create Login Database
+  > Create Questions for acceptance test
+  > Use Astrisk(*) for Password
+  > Create Sign_link
+  > Create Reset Password Link
+  > Create home Icon
+Estimated Hours 40-80 hours
