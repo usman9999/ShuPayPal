@@ -1,0 +1,12 @@
+For User_Story_Tarun.
+
+Accepted Criteria:- Determine possible fault or weakness in system and write test cases for it.
+
+For example:-
+
+Write a test case for a certain function created for the payment system.
+The test case should create functions which could assert values equal for the variables used in the payment system function.
+
+Estimated hours:- 3.
+
+Priority:- Moderate.
